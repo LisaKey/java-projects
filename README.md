@@ -12,7 +12,7 @@ Feel free to explore, use, and improve any of these projects! Contributions and 
 📊 
 
 ## 🇫🇷 Bienvenue dans mon dépôt de projets Java ! 🚀
-Cette collection met en avant les projets que j’ai réalisés le langage `Java`. Chaque projet vise à renforcer mes compétences en résolution de problèmes, en programmation orientée objet (POO) et à maîtriser les outils de développement en Java. 🛠️
+Cette collection met en avant les projets que j’ai réalisés avec le langage `Java`. Chaque projet vise à renforcer mes compétences en résolution de problèmes, en programmation orientée objet (POO) et à maîtriser les outils de développement en Java. 🛠️
 
 N’hésitez pas à explorer, utiliser et améliorer ces projets ! Vos contributions et retours sont toujours les bienvenus. 🌱
 
